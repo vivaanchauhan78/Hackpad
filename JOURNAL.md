@@ -8,3 +8,4 @@ So I finally finished the PCB and then attended the road trip 🛣️and almost 
 -- Day 4 (June 5) ---
 I finshed my case and FINALLY i jsut need to do the firware now!
 --end---- hours worked--- 1.2hrs ----
+![image](https://github.com/user-attachments/assets/d41d5642-bf47-4451-89fc-f1c5579ce296)
